@@ -1,2 +1,45 @@
 # Brainwave_Matrix_Intern
-This project is a lightweight Python script designed to detect potential phishing URLs using simple heuristic checks and optional integration with the VirusTotal API for enhanced threat analysis.
+# 🛡️ Phishing Link Scanner
+
+A lightweight and modular Python script designed to detect phishing URLs using heuristic analysis and optional VirusTotal integration.
+
+> 🚀 Developed as part of an internship at **Brainwave Matrix**
+
+---
+
+## 📌 Overview
+
+This project implements a basic phishing link scanner that checks URLs for red flags commonly associated with phishing attacks. It combines keyword-based inspection, domain checks, and URL structure analysis. Additionally, it supports integration with the [VirusTotal API](https://developers.virustotal.com/) to perform more robust scanning.
+
+---
+
+## 🔍 Features
+
+- ✅ Heuristic phishing detection:
+  - Suspicious keywords (`login`, `secure`, `verify`, etc.)
+  - Malicious domains
+  - URL length
+  - HTTP vs HTTPS
+- 🧪 Optional VirusTotal API scan
+- 🧩 Easily extendable for more advanced detection models
+
+---
+
+## 🧠 Developed At
+
+This project was developed during my internship at **Brainwave Matrix** as part of a cybersecurity initiative to explore lightweight methods for phishing detection and risk analysis in real-time applications.
+
+---
+
+## ⚙️ Setup & Usage
+
+### 📦 Requirements
+
+- Python 3.7+
+- `requests` library
+
+Install dependencies:
+
+```bash
+pip install requests
+
