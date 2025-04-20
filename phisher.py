@@ -66,3 +66,5 @@ if __name__ == "__main__":
     print("\nScan Results:")
     for key, value in scan_results.items():
         print(f"{key}: {value}")
+print("Thank you so much for trying out our service!")       
+print("Created by @Prasiddha Pal")        
