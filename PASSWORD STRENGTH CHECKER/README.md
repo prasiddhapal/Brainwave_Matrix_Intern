@@ -61,8 +61,13 @@ Contributions are welcome! Please feel free to submit pull requests with improve
 
 ## 🙏 **Acknowledgements** 🙏
 
-* *(Mention any libraries you used, e.g., Tkinter for the GUI)*
-* *(Acknowledge the source of your common password list, if applicable, or mention that it's a compilation of common passwords)*
+* This application uses the **Tkinter** library for creating the graphical user interface.
+* The **`re` (regular expression)** library is used for pattern matching to check for character variety (uppercase, lowercase, numbers, special characters) in the password.
+* The list of common passwords (`common_passwords.txt`) is compiled from various sources, including:
+    * Lists of passwords from well-known data breaches (e.g., RockYou)
+    * Common password lists published by security research organizations.
+    * Frequently used password patterns.
+    It is intended to help users avoid using credentials that are highly susceptible to cracking.
 
 ---
 
