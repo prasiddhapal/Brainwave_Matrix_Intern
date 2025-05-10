@@ -1,4 +1,4 @@
-
+# Brainwave_Matrix_Intern
 # 🛡️Phishing Link Scanner 🔍
 
 A lightweight Python-based tool to detect potentially malicious or phishing URLs using heuristic checks and optional integration with [VirusTotal](https://www.virustotal.com/).
