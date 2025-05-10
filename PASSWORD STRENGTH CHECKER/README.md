@@ -1,8 +1,6 @@
 # Brainwave_Matrix_Intern
 # 💪 **Password Strength Checker** 💪
-**
-![Password Strength Checker Interface]
-**
+
 
 This is a  password strength checker application developed as part of my internship at **Brainwave Matrix Solutions**. It provides users with real-time feedback on the strength of their passwords, helping them choose more secure options.
 
@@ -19,7 +17,8 @@ This is a  password strength checker application developed as part of my interns
         Password looks great!
         ```
     * **🟡 Moderate password** (as seen in the output below)
-        ![Moderate Password Output](link_to_image_3)
+       ![Screenshot 2025-05-10 215116](https://github.com/user-attachments/assets/f0173c9f-4222-4331-9101-ca7e0eca05e5)
+
         ```text
         Password Strength: Moderate
         Suggestions:
@@ -27,7 +26,9 @@ This is a  password strength checker application developed as part of my interns
         Add special characters (!@#$% etc).
         ```
     * **🔴 Weak password** (as seen in the output below)
-        ![Weak Password Output](link_to_image_2)
+        ![Weak Password Output]
+      ![Screenshot 2025-05-10 215044](https://github.com/user-attachments/assets/2227da65-4f14-414c-9241-522c7c606f7b)
+
         ```text
         Password Strength: Weak
         Suggestions:
