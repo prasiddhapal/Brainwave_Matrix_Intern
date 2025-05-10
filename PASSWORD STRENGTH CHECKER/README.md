@@ -57,7 +57,7 @@ Contributions are welcome! Please feel free to submit pull requests with improve
 
 ## 👨‍💻 **Developed By** 👨‍💻
 
-**Prasiddha Pal** - Intern at[Brainwave Matrix Solutions
+**Prasiddha Pal** - **Intern at Brainwave Matrix Solutions**
 
 ## 🙏 **Acknowledgements** 🙏
 
